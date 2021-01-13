@@ -1,0 +1,1481 @@
+fileFormatVersion: 2
+guid: 706446091f7daa841b5cfde0a8f8d6db
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3987509121971499833
+    second: cutman_0
+  - first:
+      213: 3788094309203298163
+    second: cutman_1
+  - first:
+      213: 4840303088060396213
+    second: cutman_2
+  - first:
+      213: 1138897908535843541
+    second: cutman_3
+  - first:
+      213: 4813331828765883727
+    second: cutman_27
+  - first:
+      213: -3211417168392416899
+    second: cutman_28
+  - first:
+      213: -301305029558430314
+    second: cutman_29
+  - first:
+      213: -7687306825680742103
+    second: cutman_30
+  - first:
+      213: -2852008990850496935
+    second: cutman_31
+  - first:
+      213: -7441499433976061416
+    second: cutman_32
+  - first:
+      213: -5361094454982456813
+    second: cutman_33
+  - first:
+      213: -8990024518358891373
+    second: cutman_34
+  - first:
+      213: -297744880929080266
+    second: cutman_38
+  - first:
+      213: -1810645946637256119
+    second: cutman_39
+  - first:
+      213: -8375319120428193239
+    second: cutman_40
+  - first:
+      213: 103148599918546675
+    second: cutman_41
+  - first:
+      213: 3253833095934219879
+    second: cutman_42
+  - first:
+      213: 4642395814569966815
+    second: cutman_43
+  - first:
+      213: -1408921045494472023
+    second: cutman_44
+  - first:
+      213: 7837939357193546319
+    second: cutman_45
+  - first:
+      213: 7900097058551541209
+    second: cutman_46
+  - first:
+      213: -8204508936152842498
+    second: cutman_47
+  - first:
+      213: -5670002946257256614
+    second: cutman_48
+  - first:
+      213: 6769012968265527416
+    second: cutman_49
+  - first:
+      213: 529841405229836385
+    second: cutman_50
+  - first:
+      213: -5322300533764391232
+    second: cutman_51
+  - first:
+      213: -2613130067369348774
+    second: cutman_59
+  - first:
+      213: 5223372776376140051
+    second: cutman_60
+  - first:
+      213: -4616015745465238962
+    second: cutman_61
+  - first:
+      213: -8502086844834488537
+    second: cutman_62
+  - first:
+      213: 5188969121100908190
+    second: cutman_63
+  - first:
+      213: 8106634169080580741
+    second: cutman_71
+  - first:
+      213: -5646202046974568000
+    second: cutman_72
+  - first:
+      213: -1604786886019379485
+    second: cutman_73
+  - first:
+      213: -7841106642144013837
+    second: cutman_74
+  - first:
+      213: -4161259252694007316
+    second: cutman_75
+  - first:
+      213: -4141593412512761597
+    second: cutman_76
+  - first:
+      213: -8634052386814827206
+    second: cutman_77
+  - first:
+      213: 2841673308963830419
+    second: cutman_81
+  - first:
+      213: 7742095056874049667
+    second: cutman_82
+  - first:
+      213: -6900112747692116309
+    second: cutman_83
+  - first:
+      213: 4669415039917749291
+    second: cutman_84
+  - first:
+      213: -6181118006227858145
+    second: cutman_85
+  - first:
+      213: 957250504058321174
+    second: cutman_86
+  - first:
+      213: 950540474487011599
+    second: cutman_87
+  - first:
+      213: -1430231990047339343
+    second: cutman_88
+  - first:
+      213: 2792914840036737208
+    second: cutman_93
+  - first:
+      213: 1681723132485441824
+    second: cutman_94
+  - first:
+      213: 4372250272721651863
+    second: cutman_95
+  - first:
+      213: -2043484983216395473
+    second: cutman_96
+  - first:
+      213: 2741392347321501428
+    second: cutman_97
+  - first:
+      213: 4379673602885040227
+    second: cutman_98
+  - first:
+      213: 4657452824936247058
+    second: cutman_99
+  - first:
+      213: -8600587627513692671
+    second: cutman_100
+  - first:
+      213: -1623752161555982803
+    second: cutman_101
+  - first:
+      213: -7129365779226196057
+    second: cutman_102
+  - first:
+      213: 3933522427744178391
+    second: cutman_103
+  - first:
+      213: -134230932875930760
+    second: cutman_104
+  - first:
+      213: -5746728757148154747
+    second: cutman_105
+  - first:
+      213: 8885701205990067657
+    second: cutman_106
+  - first:
+      213: 6914794667252815819
+    second: cutman_107
+  - first:
+      213: 3235205753052161682
+    second: cutman_108
+  - first:
+      213: -1594552729963258611
+    second: cutman_109
+  - first:
+      213: -5378992789941615071
+    second: cutman_110
+  - first:
+      213: -1029082923409001064
+    second: cutman_4
+  - first:
+      213: -8882598933842844062
+    second: cutman_5
+  - first:
+      213: -4346912695718780521
+    second: cutman_6
+  - first:
+      213: -3868510458602147271
+    second: cutman_7
+  - first:
+      213: -5427450393489277208
+    second: cutman_8
+  - first:
+      213: 8781687668660594043
+    second: cutman_9
+  - first:
+      213: -704871959731468220
+    second: cutman_10
+  - first:
+      213: 1469837513708235177
+    second: cutman_11
+  - first:
+      213: 6045900426455926535
+    second: cutman_12
+  - first:
+      213: 6570731141131367641
+    second: cutman_13
+  - first:
+      213: 2515932663241004653
+    second: cutman_14
+  - first:
+      213: 1584829542839752596
+    second: cutman_15
+  - first:
+      213: 8893573807010401244
+    second: cutman_16
+  - first:
+      213: 7831846118709809407
+    second: cutman_17
+  - first:
+      213: 5398897959163514151
+    second: cutman_18
+  - first:
+      213: -878576634879931592
+    second: cutman_19
+  - first:
+      213: -8458773276697979636
+    second: cutman_20
+  - first:
+      213: -5895525913857480882
+    second: cutman_21
+  - first:
+      213: 1966613760284676729
+    second: cutman_22
+  - first:
+      213: 7988920573058184213
+    second: cutman_23
+  - first:
+      213: 4224496311057497880
+    second: cutman_24
+  - first:
+      213: -7104262430792114252
+    second: cutman_25
+  - first:
+      213: -1224455650689130256
+    second: cutman_26
+  - first:
+      213: -5566410087628167899
+    second: cutman_35
+  - first:
+      213: 7554552772090890377
+    second: cutman_36
+  - first:
+      213: -491991780419238989
+    second: cutman_37
+  - first:
+      213: 6234913963739334757
+    second: cutman_52
+  - first:
+      213: -8057888232799060296
+    second: cutman_53
+  - first:
+      213: 8769129237752542284
+    second: cutman_54
+  - first:
+      213: -9178222432998643289
+    second: cutman_55
+  - first:
+      213: -4422189312047252485
+    second: cutman_56
+  - first:
+      213: -7312860025949831048
+    second: cutman_57
+  - first:
+      213: -661196675249708752
+    second: cutman_58
+  - first:
+      213: 4209978132744002720
+    second: cutman_64
+  - first:
+      213: -7724677108184771200
+    second: cutman_65
+  - first:
+      213: 7536910537485301193
+    second: cutman_66
+  - first:
+      213: 8150172842111132173
+    second: cutman_67
+  - first:
+      213: -584712941428872749
+    second: cutman_68
+  - first:
+      213: -2286373700937699439
+    second: cutman_69
+  - first:
+      213: 6587062090634929795
+    second: cutman_70
+  - first:
+      213: -6750820580805066418
+    second: cutman_78
+  - first:
+      213: 813080455815230330
+    second: cutman_79
+  - first:
+      213: 6863361921290847605
+    second: cutman_80
+  - first:
+      213: 3151593754308379225
+    second: cutman_89
+  - first:
+      213: -2021820203613763231
+    second: cutman_90
+  - first:
+      213: -7111202875380367001
+    second: cutman_91
+  - first:
+      213: 523566348080684193
+    second: cutman_92
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: cutman_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 265
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cc424e849589a8c0800000000000000
+      internalID: -3987509121971499833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 265
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 377cdbb34b3029430800000000000000
+      internalID: 3788094309203298163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 265
+        width: 20
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2f01973063c2340800000000000000
+      internalID: 4840303088060396213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_3
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 267
+        width: 25
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dad6b91d9d2ecf00800000000000000
+      internalID: 1138897908535843541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_30
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 224
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9291ddfcb23315590800000000000000
+      internalID: -7687306825680742103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_31
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 224
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c224fee0ab68d0800000000000000
+      internalID: -2852008990850496935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_32
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 224
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812269901bb7ab890800000000000000
+      internalID: -7441499433976061416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_33
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 224
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a447b5ff09995b0800000000000000
+      internalID: -5361094454982456813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_34
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 245
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3948a2de4540d3380800000000000000
+      internalID: -8990024518358891373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_45
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 224
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a23947154f5cc60800000000000000
+      internalID: 7837939357193546319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_46
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 224
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dda2121b68c2ad60800000000000000
+      internalID: 7900097058551541209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_47
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 225
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe7718879ab32e80800000000000000
+      internalID: -8204508936152842498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_48
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 225
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5ffae08c5a1051b0800000000000000
+      internalID: -5670002946257256614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_49
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 225
+        width: 18
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870ba7d4e6d50fd50800000000000000
+      internalID: 6769012968265527416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_50
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 225
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 168a40a63ff5a5700800000000000000
+      internalID: 529841405229836385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_51
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 225
+        width: 23
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef9110dd36326b0800000000000000
+      internalID: -5322300533764391232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 181
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31188519dd52d7840800000000000000
+      internalID: 5223372776376140051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_61
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a3fedd22e90ffb0800000000000000
+      internalID: -4616015745465238962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_62
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 181
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72f5e148f05820a80800000000000000
+      internalID: -8502086844834488537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 181
+        width: 21
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e96c0bd5cebe20840800000000000000
+      internalID: 5188969121100908190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_73
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 183
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee0c9664d6aab9e0800000000000000
+      internalID: -1604786886019379485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 183
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f1dc0d8d0bce2390800000000000000
+      internalID: -7841106642144013837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_75
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 135
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce1cdd8c1cc3046c0800000000000000
+      internalID: -4161259252694007316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_76
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 135
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30934130cba1686c0800000000000000
+      internalID: -4141593412512761597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_77
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 164
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a35e9cf691fad2880800000000000000
+      internalID: -8634052386814827206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_85
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 102
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d840c1ce1483aa0800000000000000
+      internalID: -6181118006227858145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_19
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 265
+        width: 21
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83b060a943baec3f0800000000000000
+      internalID: -878576634879931592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_20
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 265
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0599d675866c9a80800000000000000
+      internalID: -8458773276697979636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_21
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 265
+        width: 20
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e472a6cca62ee2ea0800000000000000
+      internalID: -5895525913857480882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_22
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 267
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 972d920abc0da4b10800000000000000
+      internalID: 1966613760284676729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_23
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 278
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51471ff1fe85ede60800000000000000
+      internalID: 7988920573058184213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_24
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fb787330d60aa30800000000000000
+      internalID: 4224496311057497880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_25
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 278
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf9b7d85f6986d90800000000000000
+      internalID: -7104262430792114252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_26
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 278
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f06479b21cd10fe0800000000000000
+      internalID: -1224455650689130256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_35
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 251
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 525a5c4748320c2b0800000000000000
+      internalID: -5566410087628167899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_36
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 245
+        width: 14
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9888b6178b927d860800000000000000
+      internalID: 7554552772090890377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_37
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 251
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b303b715181c29f0800000000000000
+      internalID: -491991780419238989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_52
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 225
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5684ecd473dd68650800000000000000
+      internalID: 6234913963739334757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_56
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 215
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbf4ed104a31a2c0800000000000000
+      internalID: -4422189312047252485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_64
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 181
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ac5e5a6ec8dc6a30800000000000000
+      internalID: 4209978132744002720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_65
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 181
+        width: 29
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0851e02e81f6cc490800000000000000
+      internalID: -7724677108184771200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_66
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 203
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c5b5ba933c789860800000000000000
+      internalID: 7536910537485301193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_67
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 203
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d02e118b40b3b1170800000000000000
+      internalID: 8150172842111132173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_68
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 203
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9ee8e7daea2e7f0800000000000000
+      internalID: -584712941428872749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_69
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 187
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19f20d39b3b2540e0800000000000000
+      internalID: -2286373700937699439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_78
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 164
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41c7baf2744052a0800000000000000
+      internalID: -6750820580805066418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 135
+        width: 24
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73fdaedd54a84b00800000000000000
+      internalID: 813080455815230330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: cutman_80
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 135
+        width: 26
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575cb73cd4f8f3f50800000000000000
+      internalID: 6863361921290847605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

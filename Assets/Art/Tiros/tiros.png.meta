@@ -1,0 +1,4388 @@
+fileFormatVersion: 2
+guid: 59889adc6ffaa254190f76bdbbe6dbc3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6087428932717141434
+    second: tiros_0
+  - first:
+      213: -6639875785074268312
+    second: tiros_1
+  - first:
+      213: 2893376584490658648
+    second: tiros_2
+  - first:
+      213: 7451498064820400003
+    second: tiros_3
+  - first:
+      213: -2902178592668945218
+    second: tiros_4
+  - first:
+      213: -2045676888494221491
+    second: tiros_5
+  - first:
+      213: -3613850740891648936
+    second: tiros_6
+  - first:
+      213: -9123695765579825486
+    second: tiros_7
+  - first:
+      213: -8315172911660171934
+    second: tiros_8
+  - first:
+      213: 6194260373874189512
+    second: tiros_9
+  - first:
+      213: -5216896161951743544
+    second: tiros_10
+  - first:
+      213: -4499913749020763429
+    second: tiros_11
+  - first:
+      213: 7036379004936228494
+    second: tiros_12
+  - first:
+      213: -2036099935519297387
+    second: tiros_13
+  - first:
+      213: -5483608686845625079
+    second: tiros_14
+  - first:
+      213: 2714238162063309411
+    second: tiros_15
+  - first:
+      213: -2913343339901351672
+    second: tiros_16
+  - first:
+      213: -7697029315281926211
+    second: tiros_17
+  - first:
+      213: -7593437087198631504
+    second: tiros_18
+  - first:
+      213: -8960534595612353154
+    second: tiros_19
+  - first:
+      213: -3489278703517997747
+    second: tiros_20
+  - first:
+      213: -7675509859473741274
+    second: tiros_21
+  - first:
+      213: 8784849486310097347
+    second: tiros_22
+  - first:
+      213: 3188191190617643634
+    second: tiros_23
+  - first:
+      213: -8185026915115947454
+    second: tiros_24
+  - first:
+      213: 7849342224473752309
+    second: tiros_25
+  - first:
+      213: 7091578832930379775
+    second: tiros_26
+  - first:
+      213: 5168298555613869727
+    second: tiros_27
+  - first:
+      213: 8191498146910946159
+    second: tiros_28
+  - first:
+      213: -2422784899921384150
+    second: tiros_29
+  - first:
+      213: 4901870241799799535
+    second: tiros_30
+  - first:
+      213: -9092499695765322182
+    second: tiros_31
+  - first:
+      213: 6831265175817183358
+    second: tiros_32
+  - first:
+      213: 6682973795503439889
+    second: tiros_33
+  - first:
+      213: 2507062587326925152
+    second: tiros_34
+  - first:
+      213: 6011441072374286775
+    second: tiros_35
+  - first:
+      213: -5903950547411826709
+    second: tiros_36
+  - first:
+      213: -8148697640856327604
+    second: tiros_37
+  - first:
+      213: -2962802092155765741
+    second: tiros_38
+  - first:
+      213: 1742469229612628202
+    second: tiros_39
+  - first:
+      213: -3446170080649613318
+    second: tiros_40
+  - first:
+      213: -3484492347967966226
+    second: tiros_41
+  - first:
+      213: 1822990683897787089
+    second: tiros_42
+  - first:
+      213: -3441099525136859424
+    second: tiros_43
+  - first:
+      213: -7525900924933680322
+    second: tiros_44
+  - first:
+      213: -2384569383304261609
+    second: tiros_45
+  - first:
+      213: 6751572822930205822
+    second: tiros_46
+  - first:
+      213: -5976155167416792150
+    second: tiros_47
+  - first:
+      213: 2349700682981980065
+    second: tiros_48
+  - first:
+      213: 2758285714168603724
+    second: tiros_49
+  - first:
+      213: 3949050203795944
+    second: tiros_50
+  - first:
+      213: -3506409341351225097
+    second: tiros_51
+  - first:
+      213: 5363423355121115749
+    second: tiros_52
+  - first:
+      213: -7628655554420070915
+    second: tiros_53
+  - first:
+      213: -336788296092914147
+    second: tiros_54
+  - first:
+      213: -6863424872807348438
+    second: tiros_55
+  - first:
+      213: -792354657451916768
+    second: tiros_56
+  - first:
+      213: -1381734189278902383
+    second: tiros_57
+  - first:
+      213: -1565337043472774380
+    second: tiros_58
+  - first:
+      213: -8199756454070223952
+    second: tiros_59
+  - first:
+      213: 609168940411580589
+    second: tiros_60
+  - first:
+      213: -9134456589970761771
+    second: tiros_61
+  - first:
+      213: -556788545189398004
+    second: tiros_62
+  - first:
+      213: 3158700850597398348
+    second: tiros_63
+  - first:
+      213: -9202286307538339877
+    second: tiros_64
+  - first:
+      213: -8922365203330482774
+    second: tiros_65
+  - first:
+      213: -2959823766776265420
+    second: tiros_66
+  - first:
+      213: -4162983888823802594
+    second: tiros_67
+  - first:
+      213: 2233653419043730909
+    second: tiros_68
+  - first:
+      213: -4360496607635838324
+    second: tiros_69
+  - first:
+      213: 2871258984396865322
+    second: tiros_70
+  - first:
+      213: 8997384610143060451
+    second: tiros_71
+  - first:
+      213: -9053685867993181373
+    second: tiros_72
+  - first:
+      213: -5638510439518214104
+    second: tiros_73
+  - first:
+      213: 1418411190171257264
+    second: tiros_74
+  - first:
+      213: 2707984663156443617
+    second: tiros_75
+  - first:
+      213: -6423667192391557577
+    second: tiros_76
+  - first:
+      213: 5576556238067655316
+    second: tiros_77
+  - first:
+      213: 6564949032914013443
+    second: tiros_78
+  - first:
+      213: -6812000090932354474
+    second: tiros_79
+  - first:
+      213: 4348327509693708876
+    second: tiros_80
+  - first:
+      213: -6438877469400797936
+    second: tiros_81
+  - first:
+      213: 3660137393514202397
+    second: tiros_82
+  - first:
+      213: -4070551453943792456
+    second: tiros_83
+  - first:
+      213: -9171323106489968348
+    second: tiros_84
+  - first:
+      213: -3045188724424165022
+    second: tiros_85
+  - first:
+      213: 459211283852637696
+    second: tiros_86
+  - first:
+      213: 5922210524000328816
+    second: tiros_87
+  - first:
+      213: -3182135340680373073
+    second: tiros_88
+  - first:
+      213: -3483999367185597320
+    second: tiros_89
+  - first:
+      213: -1097375737518522875
+    second: tiros_90
+  - first:
+      213: -2827212350412534050
+    second: tiros_91
+  - first:
+      213: 7324404638325106434
+    second: tiros_92
+  - first:
+      213: -5595496298756962321
+    second: tiros_93
+  - first:
+      213: -4927005768522693141
+    second: tiros_94
+  - first:
+      213: 9133765378934193738
+    second: tiros_95
+  - first:
+      213: 4421917151891102443
+    second: tiros_96
+  - first:
+      213: 3991034636555789950
+    second: tiros_97
+  - first:
+      213: -7699827066258074603
+    second: tiros_98
+  - first:
+      213: 7062619981330976125
+    second: tiros_99
+  - first:
+      213: -5559467395946502715
+    second: tiros_100
+  - first:
+      213: 7188995862164474915
+    second: tiros_101
+  - first:
+      213: 7643892283426387086
+    second: tiros_102
+  - first:
+      213: -6537699986073921507
+    second: tiros_103
+  - first:
+      213: -909646368971879058
+    second: tiros_104
+  - first:
+      213: -625881733491709957
+    second: tiros_105
+  - first:
+      213: -5875024352680880780
+    second: tiros_106
+  - first:
+      213: 6573988528337905648
+    second: tiros_107
+  - first:
+      213: -6070886178235332487
+    second: tiros_108
+  - first:
+      213: -7710002782044125125
+    second: tiros_109
+  - first:
+      213: -249490709649110012
+    second: tiros_110
+  - first:
+      213: 3756949051436736003
+    second: tiros_111
+  - first:
+      213: -6682022788548669256
+    second: tiros_112
+  - first:
+      213: 7327740400493586027
+    second: tiros_113
+  - first:
+      213: 1928913622580095601
+    second: tiros_114
+  - first:
+      213: 4633195861950816901
+    second: tiros_115
+  - first:
+      213: 5347480529453197505
+    second: tiros_116
+  - first:
+      213: -196405653176068134
+    second: tiros_117
+  - first:
+      213: -6817966033070272095
+    second: tiros_118
+  - first:
+      213: -4932388174798849712
+    second: tiros_119
+  - first:
+      213: 7714213336233642470
+    second: tiros_120
+  - first:
+      213: -1645130125501146805
+    second: tiros_121
+  - first:
+      213: 351163438340467951
+    second: tiros_122
+  - first:
+      213: -1162648236674825245
+    second: tiros_123
+  - first:
+      213: -1815597599293942086
+    second: tiros_124
+  - first:
+      213: 2161640276243351573
+    second: tiros_125
+  - first:
+      213: -1921133696735489250
+    second: tiros_126
+  - first:
+      213: -2412116316029553375
+    second: tiros_127
+  - first:
+      213: -1010472083530382973
+    second: tiros_128
+  - first:
+      213: 7748291005263589385
+    second: tiros_129
+  - first:
+      213: -3091095355621731049
+    second: tiros_130
+  - first:
+      213: -2672698101561431731
+    second: tiros_131
+  - first:
+      213: -7277022632023288091
+    second: tiros_132
+  - first:
+      213: 622855248046514376
+    second: tiros_133
+  - first:
+      213: 4206876042003254322
+    second: tiros_134
+  - first:
+      213: 1995632802176194867
+    second: tiros_135
+  - first:
+      213: -6996318629479660809
+    second: tiros_136
+  - first:
+      213: 2211851161004644998
+    second: tiros_137
+  - first:
+      213: 5890675180425905418
+    second: tiros_138
+  - first:
+      213: -3858086047887333012
+    second: tiros_139
+  - first:
+      213: -1310997536138621001
+    second: tiros_140
+  - first:
+      213: 6570045498665526668
+    second: tiros_141
+  - first:
+      213: 5792382985436068881
+    second: tiros_142
+  - first:
+      213: -6572747846859628686
+    second: tiros_143
+  - first:
+      213: 4688934305273923378
+    second: tiros_144
+  - first:
+      213: 6509096427688000520
+    second: tiros_145
+  - first:
+      213: 5820206975579961442
+    second: tiros_146
+  - first:
+      213: -6445285027144504771
+    second: tiros_147
+  - first:
+      213: 5711538664488128015
+    second: tiros_148
+  - first:
+      213: 3407249506488025063
+    second: tiros_149
+  - first:
+      213: 1606974298365611746
+    second: tiros_150
+  - first:
+      213: 3792713782461649914
+    second: tiros_151
+  - first:
+      213: -1275004715156919199
+    second: tiros_152
+  - first:
+      213: 8740343358810986999
+    second: tiros_153
+  - first:
+      213: 3220048668500669777
+    second: tiros_154
+  - first:
+      213: 2885792494173156045
+    second: tiros_155
+  - first:
+      213: 1289336476644236089
+    second: tiros_156
+  - first:
+      213: 4072246086724651845
+    second: tiros_157
+  - first:
+      213: -1467947430009032847
+    second: tiros_158
+  - first:
+      213: -2319222801800349926
+    second: tiros_159
+  - first:
+      213: 7877990064401262464
+    second: tiros_160
+  - first:
+      213: -4782841513724849063
+    second: tiros_161
+  - first:
+      213: 2075683399639412782
+    second: tiros_162
+  - first:
+      213: -854405787416140427
+    second: tiros_163
+  - first:
+      213: -6331680976899371558
+    second: tiros_164
+  - first:
+      213: 752530306372170813
+    second: tiros_165
+  - first:
+      213: -4602544758710460447
+    second: tiros_166
+  - first:
+      213: 1910207883972913068
+    second: tiros_167
+  - first:
+      213: -8996048708060518550
+    second: tiros_168
+  - first:
+      213: 434263390050843853
+    second: tiros_169
+  - first:
+      213: 4973593976603037904
+    second: tiros_170
+  - first:
+      213: -2579589549467988311
+    second: tiros_171
+  - first:
+      213: 7315027183570624553
+    second: tiros_172
+  - first:
+      213: 4048199576222983197
+    second: tiros_173
+  - first:
+      213: 8711584677116020962
+    second: tiros_174
+  - first:
+      213: 6921227686422057687
+    second: tiros_175
+  - first:
+      213: 6210490093532764428
+    second: tiros_176
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tiros_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 510
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642a5f563ab158ba0800000000000000
+      internalID: -6087428932717141434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 510
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8672eed272c6ad3a0800000000000000
+      internalID: -6639875785074268312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_2
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 510
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85bafff7ca6572820800000000000000
+      internalID: 2893376584490658648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_3
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 510
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f612e920a096760800000000000000
+      internalID: 7451498064820400003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_4
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 502
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4793542f369b7d0800000000000000
+      internalID: -2902178592668945218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_5
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 502
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d47531855bb4c93e0800000000000000
+      internalID: -2045676888494221491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 502
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85cfedde5e509ddc0800000000000000
+      internalID: -3613850740891648936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 492
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bef0e56a0f126180800000000000000
+      internalID: -9123695765579825486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_8
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 492
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26d7b82ea429a9c80800000000000000
+      internalID: -8315172911660171934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_9
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 492
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4ac0fcdfe66f550800000000000000
+      internalID: 6194260373874189512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_10
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 492
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c184ccb49cd997b0800000000000000
+      internalID: -5216896161951743544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 501
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda98bd69481d81c0800000000000000
+      internalID: -4499913749020763429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_12
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 501
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e8d36bc6d36a160800000000000000
+      internalID: 7036379004936228494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_13
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 501
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5903d2875e15eb3e0800000000000000
+      internalID: -2036099935519297387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 493
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90df155e3fe46e3b0800000000000000
+      internalID: -5483608686845625079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_15
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 493
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ab79d4a39eaa520800000000000000
+      internalID: 2714238162063309411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 493
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8090e6cfaa9b197d0800000000000000
+      internalID: -2913343339901351672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_17
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 492
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db74adc4e98ae2590800000000000000
+      internalID: -7697029315281926211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_18
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 492
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9af317331be9690800000000000000
+      internalID: -7593437087198631504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_19
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 492
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7d5dee9249c5a380800000000000000
+      internalID: -8960534595612353154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 475
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4569729187939fc0800000000000000
+      internalID: -3489278703517997747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_21
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 475
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62a2f0c037c1b7590800000000000000
+      internalID: -7675509859473741274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_22
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 475
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c149cc401e0ae970800000000000000
+      internalID: 8784849486310097347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_23
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 480
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27a5bc00ffabe3c20800000000000000
+      internalID: 3188191190617643634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_24
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 480
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24aa0870361f86e80800000000000000
+      internalID: -8185026915115947454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 480
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f28b326a277eec60800000000000000
+      internalID: 7849342224473752309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_26
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 468
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff79e7130695a6260800000000000000
+      internalID: 7091578832930379775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_27
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 468
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96778c472c79b740800000000000000
+      internalID: 5168298555613869727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_28
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 470
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63c5e80a2c0ea170800000000000000
+      internalID: 8191498146910946159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_29
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 468
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d610158f9806ed0800000000000000
+      internalID: -2422784899921384150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_30
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 470
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe209818301f60440800000000000000
+      internalID: 4901870241799799535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_31
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 468
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a368f8963b3f0d180800000000000000
+      internalID: -9092499695765322182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 464
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70641bdb778dce50800000000000000
+      internalID: 6831265175817183358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 464
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1100a345241bebc50800000000000000
+      internalID: 6682973795503439889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 464
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0690b43e320eac220800000000000000
+      internalID: 2507062587326925152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_35
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 461
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b9001b2ecdec6350800000000000000
+      internalID: 6011441072374286775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_36
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 461
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be78b02f144f01ea0800000000000000
+      internalID: -5903950547411826709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_37
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 461
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ae1b65ba20aee80800000000000000
+      internalID: -8148697640856327604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_38
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 461
+        width: 22
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c754dd13302e6d0800000000000000
+      internalID: -2962802092155765741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_39
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 461
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae8fb17488e7e2810800000000000000
+      internalID: 1742469229612628202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 443
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: affec4bf19ebc20d0800000000000000
+      internalID: -3446170080649613318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_41
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 443
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee37dc0dba894afc0800000000000000
+      internalID: -3484492347967966226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 443
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d2f29e4e509c4910800000000000000
+      internalID: 1822990683897787089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_43
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 443
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eeb37fa632ce30d0800000000000000
+      internalID: -3441099525136859424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_44
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 445
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e335b829bf0ae8790800000000000000
+      internalID: -7525900924933680322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_45
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 445
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71090e5a7ce48eed0800000000000000
+      internalID: -2384569383304261609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_46
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 445
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cafe906b762bd50800000000000000
+      internalID: 6751572822930205822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_47
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 445
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabc18bc98e601da0800000000000000
+      internalID: -5976155167416792150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_48
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 445
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a732a96250db9020800000000000000
+      internalID: 2349700682981980065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_49
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44ed063e36674620800000000000000
+      internalID: 2758285714168603724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_50
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 446
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e1f896e3a70e0000800000000000000
+      internalID: 3949050203795944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_51
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 446
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f816a3284bb65fc0800000000000000
+      internalID: -3506409341351225097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_52
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 446
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5622706ff15be6a40800000000000000
+      internalID: 5363423355121115749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_53
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 446
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df52bfc0132912690800000000000000
+      internalID: -7628655554420070915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_54
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 426
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1e6fde34dc735bf0800000000000000
+      internalID: -336788296092914147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_55
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 426
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27ccb1317730c0a0800000000000000
+      internalID: -6863424872807348438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_56
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 428
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 022c37a13adf005f0800000000000000
+      internalID: -792354657451916768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_57
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 426
+        width: 5
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197c40a531813dce0800000000000000
+      internalID: -1381734189278902383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_58
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 428
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b8b02a04ec64ae0800000000000000
+      internalID: -1565337043472774380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_59
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 426
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bb7d6ef2fc943e80800000000000000
+      internalID: -8199756454070223952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_60
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 433
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da0fe6d7ce3347800800000000000000
+      internalID: 609168940411580589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_61
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 433
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7119ab024eb3180800000000000000
+      internalID: -9134456589970761771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_62
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 433
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0abaf4a4c3e548f0800000000000000
+      internalID: -556788545189398004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_63
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 433
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c47059720b5f5db20800000000000000
+      internalID: 3158700850597398348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_64
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 433
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd77cbdeb59ea4080800000000000000
+      internalID: -9202286307538339877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_65
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad3e2bce146d2480800000000000000
+      internalID: -8922365203330482774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_66
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 432
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435ca8747f79ce6d0800000000000000
+      internalID: -2959823766776265420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_67
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 432
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e15abf4a53c1a36c0800000000000000
+      internalID: -4162983888823802594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_68
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 432
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5307143f78ffe10800000000000000
+      internalID: 2233653419043730909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_69
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 432
+        width: 22
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ae19130776c73c0800000000000000
+      internalID: -4360496607635838324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_70
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 432
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2fbf1f65d2c8d720800000000000000
+      internalID: 2871258984396865322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 411
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1c42bf1a12ddc70800000000000000
+      internalID: 8997384610143060451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_72
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 412
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343da4aeba8da5280800000000000000
+      internalID: -9053685867993181373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_73
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 411
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8286f2e11acffb1b0800000000000000
+      internalID: -5638510439518214104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_74
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 412
+        width: 4
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9c89f56753fa310800000000000000
+      internalID: 1418411190171257264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_75
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 411
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e945a024b1b49520800000000000000
+      internalID: 2707984663156443617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_76
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 412
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73e9b2af8bc8ad6a0800000000000000
+      internalID: -6423667192391557577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_77
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 411
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 492e2084a58e36d40800000000000000
+      internalID: 5576556238067655316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_78
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 411
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30d4263ec526b1b50800000000000000
+      internalID: 6564949032914013443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_79
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 423
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6526c02420ae671a0800000000000000
+      internalID: -6812000090932354474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_80
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 423
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4a3a56e4dc585c30800000000000000
+      internalID: 4348327509693708876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_81
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 423
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d69146e0384a6a0800000000000000
+      internalID: -6438877469400797936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_82
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 423
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d15c981319b6bc230800000000000000
+      internalID: 3660137393514202397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_83
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 423
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcfab3f40f7287c0800000000000000
+      internalID: -4070551453943792456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_84
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 407
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4295555f93ae8b080800000000000000
+      internalID: -9171323106489968348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_85
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 407
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693cae3df05db5d0800000000000000
+      internalID: -3045188724424165022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 407
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00633eaca327f5600800000000000000
+      internalID: 459211283852637696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_87
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 407
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c9e18281bef2250800000000000000
+      internalID: 5922210524000328816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_88
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 407
+        width: 25
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fac978f64c8c6d3d0800000000000000
+      internalID: -3182135340680373073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_89
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 417
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87c7739d80956afc0800000000000000
+      internalID: -3483999367185597320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_90
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 417
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e7314b49655c0f0800000000000000
+      internalID: -1097375737518522875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_91
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 417
+        width: 11
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede4015b859b3c8d0800000000000000
+      internalID: -2827212350412534050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_92
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 417
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076792563385a560800000000000000
+      internalID: 7324404638325106434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_93
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 417
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe7049233cdc852b0800000000000000
+      internalID: -5595496298756962321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_94
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 392
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be587e0ab52cf9bb0800000000000000
+      internalID: -4927005768522693141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_95
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 392
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e32292837a1ce70800000000000000
+      internalID: 9133765378934193738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 392
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea1da8a83ecd5d30800000000000000
+      internalID: 4421917151891102443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_97
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 392
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7620364bd0036730800000000000000
+      internalID: 3991034636555789950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_98
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 394
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514dfb32418b42590800000000000000
+      internalID: -7699827066258074603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_99
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 394
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d0fc22477730260800000000000000
+      internalID: 7062619981330976125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_100
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 394
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c52e34dbddc8d2b0800000000000000
+      internalID: -5559467395946502715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 394
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32c0110d5a174c360800000000000000
+      internalID: 7188995862164474915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 394
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e84bafe588f841a60800000000000000
+      internalID: 7643892283426387086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_103
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d18dcf9308c6545a0800000000000000
+      internalID: -6537699986073921507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_104
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 390
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d053a62794063f0800000000000000
+      internalID: -909646368971879058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_105
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 390
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf722d321eb6057f0800000000000000
+      internalID: -625881733491709957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_106
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 390
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475dfab7a78b77ea0800000000000000
+      internalID: -5875024352680880780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_107
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 390
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7e21d6cbf7b3b50800000000000000
+      internalID: 6573988528337905648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_108
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 361
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97844729f21efbba0800000000000000
+      internalID: -6070886178235332487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_109
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 361
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b388cfea151900590800000000000000
+      internalID: -7710002782044125125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_110
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 361
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40cca9c7581a98cf0800000000000000
+      internalID: -249490709649110012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_111
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 361
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30e9022d14d532430800000000000000
+      internalID: 3756949051436736003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_112
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0dd7b3dafa443a0800000000000000
+      internalID: -6682022788548669256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_113
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 375
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66e2b9f11d51b560800000000000000
+      internalID: 7327740400493586027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_114
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 375
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17a6c4c48b0e4ca10800000000000000
+      internalID: 1928913622580095601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_115
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 375
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5826366b61b6c4040800000000000000
+      internalID: 4633195861950816901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_116
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 375
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c820699531163a40800000000000000
+      internalID: 5347480529453197505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_117
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7df8a591a364df0800000000000000
+      internalID: -196405653176068134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_118
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 373
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a1da2c1408b161a0800000000000000
+      internalID: -6817966033070272095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_119
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 373
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059f6c28613ac8bb0800000000000000
+      internalID: -4932388174798849712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_120
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 377
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e989cb58246e0b60800000000000000
+      internalID: 7714213336233642470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_121
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 373
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49d53cfdd25b29e0800000000000000
+      internalID: -1645130125501146805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_122
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 373
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec636069459fd400800000000000000
+      internalID: 351163438340467951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_123
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 336
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e34346b6917ddfe0800000000000000
+      internalID: -1162648236674825245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_124
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 336
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab658075a93bdc6e0800000000000000
+      internalID: -1815597599293942086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_125
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 336
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51889add060bffd10800000000000000
+      internalID: 2161640276243351573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_126
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 336
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e135c08d413c655e0800000000000000
+      internalID: -1921133696735489250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_127
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 356
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12572229df0768ed0800000000000000
+      internalID: -2412116316029553375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_128
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 356
+        width: 30
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38109b56ef41af1f0800000000000000
+      internalID: -1010472083530382973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_129
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 356
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9003719fd95778b60800000000000000
+      internalID: 7748291005263589385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_130
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 356
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7159e41c6293a15d0800000000000000
+      internalID: -3091095355621731049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_131
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 356
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d49e198bc3ba8ead0800000000000000
+      internalID: -2672698101561431731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_132
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 340
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e616c3b872d20b90800000000000000
+      internalID: -7277022632023288091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_133
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 337
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0ec4e4c83d4a800800000000000000
+      internalID: 622855248046514376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_134
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 337
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c84b1a873d16a30800000000000000
+      internalID: 4206876042003254322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_135
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 337
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33954d3d579e1bb10800000000000000
+      internalID: 1995632802176194867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_136
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 337
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f2ca6a464518ee90800000000000000
+      internalID: -6996318629479660809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_137
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 337
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68a97bb79e212be10800000000000000
+      internalID: 2211851161004644998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_138
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 315
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a050f70ddd1efb150800000000000000
+      internalID: 5890675180425905418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_139
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 315
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e8c23e23557ac0800000000000000
+      internalID: -3858086047887333012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_140
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 315
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bf8b05dfa66ecde0800000000000000
+      internalID: -1310997536138621001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_141
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 315
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85ec1a429d7d2b50800000000000000
+      internalID: 6570045498665526668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_142
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 315
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11cfee9c2ada26050800000000000000
+      internalID: 5792382985436068881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_143
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 315
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd7bd38a8e8c4a0800000000000000
+      internalID: -6572747846859628686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_144
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237cef858e0721140800000000000000
+      internalID: 4688934305273923378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_145
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 322
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80c7b1dd6b4f45a50800000000000000
+      internalID: 6509096427688000520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_146
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 322
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 268b1b2586785c050800000000000000
+      internalID: 5820206975579961442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_147
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 322
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a68e89a6fbd86a0800000000000000
+      internalID: -6445285027144504771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_148
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 322
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e49b18726734f40800000000000000
+      internalID: 5711538664488128015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_149
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 281
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eff75faf5bf84f20800000000000000
+      internalID: 3407249506488025063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_150
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 300
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eec3493c9e1d4610800000000000000
+      internalID: 1606974298365611746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_151
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 300
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3da5a271d62a430800000000000000
+      internalID: 3792713782461649914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_152
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 281
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16caf1287f54e4ee0800000000000000
+      internalID: -1275004715156919199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_153
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 300
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f99fdcf9ffeb4970800000000000000
+      internalID: 8740343358810986999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_154
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 281
+        width: 36
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 155b3751439efac20800000000000000
+      internalID: 3220048668500669777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_155
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc2fdaedbf46c0820800000000000000
+      internalID: 2885792494173156045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_156
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 287
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b555eb1b4a4e110800000000000000
+      internalID: 1289336476644236089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_157
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 307
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54b823d7d36838830800000000000000
+      internalID: 4072246086724651845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_158
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 307
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f2d55079dc0abe0800000000000000
+      internalID: -1467947430009032847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_159
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 277
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1734b7462770dfd0800000000000000
+      internalID: -2319222801800349926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_160
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 307
+        width: 26
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087a1b4693e345d60800000000000000
+      internalID: 7877990064401262464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_161
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 277
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954507ddbfeef9db0800000000000000
+      internalID: -4782841513724849063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_162
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 292
+        width: 23
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20bea5fd0f4ecc10800000000000000
+      internalID: 2075683399639412782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_163
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 277
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 575e503967a8424f0800000000000000
+      internalID: -854405787416140427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_164
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 292
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: add80dcb2b95128a0800000000000000
+      internalID: -6331680976899371558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_165
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 277
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d34770a9356817a00800000000000000
+      internalID: 752530306372170813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_166
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 277
+        width: 9
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ef1a326de97020c0800000000000000
+      internalID: -4602544758710460447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_167
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 254
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca72b5323fb628a10800000000000000
+      internalID: 1910207883972913068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_168
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 254
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a67e0f5fc5d972380800000000000000
+      internalID: -8996048708060518550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_169
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 254
+        width: 30
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dccffee9040d60600800000000000000
+      internalID: 434263390050843853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_170
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 277
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d05278de51c50540800000000000000
+      internalID: 4973593976603037904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_171
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 278
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae86a5d8f4733cd0800000000000000
+      internalID: -2579589549467988311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_172
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 248
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 920ad0f7772348560800000000000000
+      internalID: 7315027183570624553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_173
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 249
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1468a8f0181e2830800000000000000
+      internalID: 4048199576222983197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_174
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 248
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e88c3e9b14c5e870800000000000000
+      internalID: 8711584677116020962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_175
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 246
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d219ca19e32d0060800000000000000
+      internalID: 6921227686422057687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tiros_176
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3
+        width: 678
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c095a12e5d7103650800000000000000
+      internalID: 6210490093532764428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

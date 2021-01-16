@@ -30,6 +30,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Game Over")]
     [SerializeField] int sceneToLoadWhenGameOver;
+    [SerializeField] int nextScene;
 
 
     private void Awake()
@@ -86,6 +87,12 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(sceneToLoadWhenGameOver);
     }
 
+    private IEnumerator LoadNextScene()
+    {
+        yield return new WaitForSeconds(6f);
+        SceneManager.LoadScene(nextScene);
+    }
+
     public bool GetIsPlayerAlive()
     {
         return isPlayerAlive;
@@ -107,5 +114,6 @@ public class GameManager : MonoBehaviour
     {
         audioSource.Stop();
         audioSource.PlayOneShot(victoryMusic);
+        StartCoroutine(LoadNextScene());
     }
 }

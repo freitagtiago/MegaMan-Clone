@@ -29,6 +29,7 @@ public class Mover : MonoBehaviour
 
     [Header("Ground Control")]
     [SerializeField] LayerMask groundLayer;
+    [SerializeField] LayerMask wallLayer;
     [SerializeField] bool isGrounded = true;
 
     [Header("Climb Config")]
@@ -173,7 +174,17 @@ public class Mover : MonoBehaviour
         }
         else
         {
-            rig.velocity = (new Vector2(xVelocity * 0.8f, rig.velocity.y));
+            if(!Physics2D.IsTouchingLayers(boxCollider, wallLayer))
+            {
+                Debug.Log("Não está tocando parede");
+                rig.velocity = (new Vector2(xVelocity * 0.8f, rig.velocity.y));
+            }
+            else
+            {
+                Debug.Log("Está tocando parede");
+                rig.velocity = (new Vector2(0, rig.velocity.y));
+            }
+            
         }
         if (Input.GetKey(KeyCode.Space) && isGrounded)
         {

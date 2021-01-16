@@ -133,7 +133,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   hitDamage: 1
-  speed: 0.15
+  speed: 0.5
   maxRange: 50
   direction: {x: 0, y: 0, z: 0}
   mover: {fileID: 0}

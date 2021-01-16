@@ -134,7 +134,7 @@ BoxCollider2D:
   m_GameObject: {fileID: 1602077739751796701}
   m_Enabled: 1
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 251fcc68efd41c741be8a7e95dfff52d, type: 2}
   m_IsTrigger: 0
   m_UsedByEffector: 0
   m_UsedByComposite: 0
@@ -201,6 +201,9 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 256
+  wallLayer:
+    serializedVersion: 2
+    m_Bits: 2048
   isGrounded: 1
   onLadder: 0
   climbSpeed: 3

@@ -3169,6 +3169,11 @@ PrefabInstance:
       propertyPath: readyLettering
       value: 
       objectReference: {fileID: 1102886740}
+    - target: {fileID: 8117487943076385077, guid: bd2e9080893868744a0990f66eeb3aac,
+        type: 3}
+      propertyPath: sceneToLoadWhenGameOver
+      value: 3
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bd2e9080893868744a0990f66eeb3aac, type: 3}
 --- !u!1 &380513832
@@ -12383,6 +12388,16 @@ PrefabInstance:
       propertyPath: m_Name
       value: Canvas
       objectReference: {fileID: 0}
+    - target: {fileID: 1104378970510811092, guid: 05fb525ec057fc54bacfdd6768739f3a,
+        type: 3}
+      propertyPath: m_ReferenceResolution.x
+      value: 900
+      objectReference: {fileID: 0}
+    - target: {fileID: 1104378970510811092, guid: 05fb525ec057fc54bacfdd6768739f3a,
+        type: 3}
+      propertyPath: m_ReferenceResolution.y
+      value: 800
+      objectReference: {fileID: 0}
     - target: {fileID: 1104378970510811094, guid: 05fb525ec057fc54bacfdd6768739f3a,
         type: 3}
       propertyPath: m_Pivot.x
@@ -12565,7 +12580,7 @@ PrefabInstance:
     - target: {fileID: 7100049967703950015, guid: fa2ce8f8de4a60a42a643dc966197bee,
         type: 3}
       propertyPath: speed
-      value: 1.6
+      value: 5
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fa2ce8f8de4a60a42a643dc966197bee, type: 3}

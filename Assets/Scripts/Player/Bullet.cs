@@ -33,7 +33,7 @@ public class Bullet : MonoBehaviour
                                 , transform.position.z);
     }
 
-    private void Update()
+    private void FixedUpdate()
     {
         transform.position = Vector3.MoveTowards(transform.position, direction, speed);
     }

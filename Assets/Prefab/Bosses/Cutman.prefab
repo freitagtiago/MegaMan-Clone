@@ -203,7 +203,7 @@ MonoBehaviour:
     serializedVersion: 2
     m_Bits: 256
   direction: -1
-  speed: 1
+  speed: 2
   jumpForce: 8
   iddleTime: 1
   targetRange: 3
